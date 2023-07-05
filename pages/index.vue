@@ -1,5 +1,5 @@
 <template>
-	<div class="w-full">
+	<div class="w-full min-h-[70dvh]">
 		<div class="container mx-auto flex justify-center mt-16 px-8">
 			<img data-aos="zoom-in" src="/logo-full.png" class="max-w-[40rem] w-full" />
 		</div>
